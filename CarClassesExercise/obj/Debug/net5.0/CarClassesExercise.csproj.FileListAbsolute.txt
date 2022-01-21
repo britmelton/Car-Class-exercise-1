@@ -1,0 +1,16 @@
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\bin\Debug\net5.0\CarClassesExercise.exe
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\bin\Debug\net5.0\CarClassesExercise.deps.json
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\bin\Debug\net5.0\CarClassesExercise.runtimeconfig.json
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\bin\Debug\net5.0\CarClassesExercise.runtimeconfig.dev.json
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\bin\Debug\net5.0\CarClassesExercise.dll
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\bin\Debug\net5.0\ref\CarClassesExercise.dll
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\bin\Debug\net5.0\CarClassesExercise.pdb
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\obj\Debug\net5.0\CarClassesExercise.csproj.AssemblyReference.cache
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\obj\Debug\net5.0\CarClassesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\obj\Debug\net5.0\CarClassesExercise.AssemblyInfoInputs.cache
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\obj\Debug\net5.0\CarClassesExercise.AssemblyInfo.cs
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\obj\Debug\net5.0\CarClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\obj\Debug\net5.0\CarClassesExercise.dll
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\obj\Debug\net5.0\ref\CarClassesExercise.dll
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\obj\Debug\net5.0\CarClassesExercise.pdb
+C:\Users\britt\reposTC\CarClassesExercise\CarClassesExercise\obj\Debug\net5.0\CarClassesExercise.genruntimeconfig.cache
